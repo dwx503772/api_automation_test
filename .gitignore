@@ -1,6 +1,7 @@
 .vscode/
 *.pyc
-.idea/
+/.idea/*
+.idea/*
 __pycache__/
 .coverage
 .coverage.*
@@ -19,3 +20,8 @@ venv.bak/
 .Ds_Store
 report/
 tools/result.json
+db.sqlite3
+.idea/api_automation_test.iml
+.idea/dataSources.xml
+.idea/misc.xml
+.idea/workspace.xml
