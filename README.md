@@ -141,3 +141,4 @@ python manage.py runserver 0.0.0.0:8000
 ![后台管理](https://github.com/githublitao/api_automation_test/blob/master/img/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
 ！[admin]
 admin/admin123
+/Users/xingxiang.ding/PycharmProjects/autovenv/bin/uwsgi --ini uwsgi.ini 

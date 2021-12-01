@@ -48,8 +48,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bff3874-0f80-4ef6-957e-fc1f35d5523e" name="Default" comment="docker">
+      <change beforePath="$PROJECT_DIR$/.idea/api_automation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_automation_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/{" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UwsgiScript/uwsgi.ini" beforeDir="false" afterPath="$PROJECT_DIR$/UwsgiScript/uwsgi.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UwsgiScript/uwsgi.pid" beforeDir="false" afterPath="$PROJECT_DIR$/UwsgiScript/uwsgi.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_automation_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_automation_test/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +82,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/api_test/apps.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/api_automation_test/settings.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -108,7 +116,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -600,28 +608,6 @@
     <MESSAGE value="js丢失" />
     <MESSAGE value="docker" />
     <option name="LAST_COMMIT_MESSAGE" value="docker" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599544363617">
-      <screen x="0" y="23" width="1920" height="978" />
-    </state>
-    <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599544363617" />
-    <state x="192" y="110" key="MergeDialog" timestamp="1599534144512">
-      <screen x="0" y="23" width="1920" height="978" />
-    </state>
-    <state x="192" y="110" key="MergeDialog/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599534144512" />
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599550001186">
-      <screen x="0" y="23" width="1920" height="978" />
-    </state>
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599550001186" />
-    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599541334405">
-      <screen x="0" y="23" width="1920" height="978" />
-    </state>
-    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599541334405" />
-    <state x="667" y="267" width="586" height="490" key="find.popup" timestamp="1599543843347">
-      <screen x="0" y="23" width="1920" height="978" />
-    </state>
-    <state x="667" y="267" width="586" height="490" key="find.popup/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599543843347" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
