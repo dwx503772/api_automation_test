@@ -212,7 +212,7 @@ USE_L10N = True
 
 USE_TZ = False
 
-# 跨域忽略
+# Cross-domain ignore
 CORS_ALLOW_CREDENTIALS = True
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ORIGIN_WHITELIST = (
